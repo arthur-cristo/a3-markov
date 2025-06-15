@@ -6,6 +6,9 @@ Este projeto simula a evolução do nível de pragas em uma lavoura ao longo de 
 
 O programa parte de um **estado inicial informado pelo usuário** e aplica uma **matriz de transição** para prever a probabilidade de ocorrência de cada estado após um determinado número de dias.
 
+##Link para DOC do Projeto
+file:///C:/Users/kawan/Downloads/DOC%20PROJETO%20CADEIA%20EM%20JULIA.pdf
+
 ## Como Rodar o Código
 
 ### Requisitos
